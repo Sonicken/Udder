@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE6953262001E41C00118EC1 /* Happy-Sitting-Dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE6953252001E41C00118EC1 /* Happy-Sitting-Dog.jpg */; };
 		CEF5DA47200141D8009A2886 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF5DA46200141D8009A2886 /* AppDelegate.swift */; };
 		CEF5DA49200141D8009A2886 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF5DA48200141D8009A2886 /* ViewController.swift */; };
 		CEF5DA4C200141D8009A2886 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEF5DA4A200141D8009A2886 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE6953252001E41C00118EC1 /* Happy-Sitting-Dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Happy-Sitting-Dog.jpg"; sourceTree = "<group>"; };
 		CEF5DA43200141D8009A2886 /* Udder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Udder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEF5DA46200141D8009A2886 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CEF5DA48200141D8009A2886 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				CEF5DA48200141D8009A2886 /* ViewController.swift */,
 				CEF5DA4A200141D8009A2886 /* Main.storyboard */,
 				CEF5DA4D200141D8009A2886 /* Assets.xcassets */,
+				CE6953252001E41C00118EC1 /* Happy-Sitting-Dog.jpg */,
 				CEF5DA4F200141D8009A2886 /* LaunchScreen.storyboard */,
 				CEF5DA52200141D8009A2886 /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE6953262001E41C00118EC1 /* Happy-Sitting-Dog.jpg in Resources */,
 				CEF5DA51200141D8009A2886 /* LaunchScreen.storyboard in Resources */,
 				CEF5DA4E200141D8009A2886 /* Assets.xcassets in Resources */,
 				CEF5DA4C200141D8009A2886 /* Main.storyboard in Resources */,
